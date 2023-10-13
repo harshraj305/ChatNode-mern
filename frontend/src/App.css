@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Work+Sans:wght@300&display=swap');
+
+.App {
+    min-height: 100vh;
+    display: flex;
+
+    /* background-image: url('https://www.shutterstock.com/shutterstock/photos/659141167/display_1500/stock-vector-seamless-pattern-of-outline-icons-seo-659141167.jpg'); */
+    /* background-image: url('https://w0.peakpx.com/wallpaper/920/587/HD-wallpaper-whatsapp-app-fondo-sms-verde-wall-whatsapp.jpg'); */
+    background-image: url('https://media.istockphoto.com/id/1371726643/photo/different-notifications-on-violet-background-pop-up-messages-copy-space.webp?b=1&s=170667a&w=0&k=20&c=FhmBYUrsGsR0hYn5zEDa0SkEFfF-rwuUfMEZ4HpX0rE=');
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
